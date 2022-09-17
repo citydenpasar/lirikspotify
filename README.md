@@ -24,3 +24,4 @@ Run Python lagu dan lirik.py
 
 Jangan Lupa instal PIP yg dibutuhkan
 
+Kalau gagal, jangan lupa restart komputermu dulu, jangan dipaksakan
