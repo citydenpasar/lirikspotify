@@ -1,0 +1,4 @@
+USERNAME = '31vo67mwsrerhczwe2f4lhgv7fuy'
+SPOTIPY_CLIENT_ID = 'b2fb3bbecb254853a03bc7a849c1fda9'
+SPOTIPY_CLIENT_SECRET = '6b5143f5084e4da0847ac49bee8d43ed'
+SPOTIPY_REDIRECT_URI = "http://127.0.0.1:8080/callback"
